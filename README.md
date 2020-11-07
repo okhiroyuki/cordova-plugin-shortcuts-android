@@ -14,14 +14,14 @@ The work that went into creating this plug-in was inspired by the existing plugi
 ## How to install it
 
 ```
-cordova plugins add @red-mobile/cordova-plugin-shortcuts-android
+cordova plugins add @okhiroyuki/cordova-plugin-shortcuts-android
 ```
 
 ## How to uninstall it
 
 ```
 cordova plugin remove cordova-plugin-shortcuts-android
-npm unisntall @red-mobile/cordova-plugin-shortcuts-android
+npm unisntall @okhiroyuki/cordova-plugin-shortcuts-android
 ```
 
 
