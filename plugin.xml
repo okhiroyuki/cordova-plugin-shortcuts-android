@@ -2,16 +2,18 @@
 <plugin xmlns="http://www.phonegap.com/ns/plugins/1.0"
     xmlns:android="http://schemas.android.com/apk/res/android"
     id="cordova-plugin-shortcuts-android"
-    version="0.1.0">
+    version="1.0.0">
 
     <name>Android Shortcuts</name>
-    
+
     <description>
       &lt;p&gt;This plugin lets you manage dynamic and pinned shortcuts for Android&lt;/p&gt;
     </description>
-    
     <license>MIT</license>
-    
+    <keywords>cordova,shortcut,intent</keywords>
+    <repo>https://github.com/okhiroyuki/cordova-plugin-shortcuts-android.git</repo>
+    <author>Hiroyuki Okada</author>
+
     <js-module src="www/ShortcutsPlugin.js" name="ShortcutsPlugin">
          <clobbers target="Shortcuts" />
     </js-module>
