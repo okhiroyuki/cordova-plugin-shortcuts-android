@@ -1,8 +1,8 @@
 {
-  "name": "@okhiroyuki/cordova-plugin-shortcuts-android",
+  "name": "@red-mobile/cordova-plugin-shortcuts-android",
   "version": "1.0.0",
   "cordova":{
-    "id": "@okhiroyuki/cordova-plugin-shortcuts-android",
+    "id": "@red-mobile/cordova-plugin-shortcuts-android",
     "platforms": [
       "android"
     ]
